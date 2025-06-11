@@ -1,2 +1,2 @@
 # cheesecake
-This is for the coffee meeting
+This is for the cheesecake meeting
