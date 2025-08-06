@@ -45,7 +45,7 @@ body:
         - 6.1
         - 6.0
         - 5.1
-      default: 8.0
+      default: 1
     validations:
       required: true
   - type: dropdown
